@@ -78,7 +78,7 @@ DATABASES = {
 "default": {
         "ENGINE": "django.db.backends.mysql",
         'CONN_MAX_AGE': 3600,
-        "NAME": "posrivality",
+        "NAME": "justapp",
         "USER": "root",
         "PASSWORD": "root",
         "HOST": "localhost",
